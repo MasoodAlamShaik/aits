@@ -4,4 +4,4 @@
 #### Sciences
 ##### (Tirupathi)
 
-* AITS * is located in four places Tirupathi,Rajampet,Kadapa & Hyd.
+**AITS** is located in four places Tirupathi,Rajampet,Kadapa & Hyd.
